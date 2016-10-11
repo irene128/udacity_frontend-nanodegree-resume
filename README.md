@@ -2,12 +2,14 @@
 ## 描述
 ### Learn JavaScript syntax and coding conventions to create interactive and dynamic websites while create an online resume.
 ### Udacity上的JavaScript線上課程，完成個人的履歷。
+
 ## 使用
 + HTML、CSS、Bootstrap
 + JavaScript、jQuery
 + Google Maps API
+
 ## 檢視
 <img src="images/resume01.PNG" alt="My resume">
-<img src="images/resume01.PNG" alt="My resume">
-<img src="images/resume01.PNG" alt="My resume">
-<img src="images/resume01.PNG" alt="My resume">
+<img src="images/resume02.PNG" alt="My resume">
+<img src="images/resume03.PNG" alt="My resume">
+<img src="images/resume04.PNG" alt="My resume">
