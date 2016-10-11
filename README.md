@@ -9,7 +9,4 @@
 + Google Maps API
 
 ## 檢視
-<img src="images/resume01.PNG" alt="My resume">
-<img src="images/resume02.PNG" alt="My resume">
-<img src="images/resume03.PNG" alt="My resume">
-<img src="images/resume04.PNG" alt="My resume">
+<img src="images/resume.PNG" alt="My resume">
